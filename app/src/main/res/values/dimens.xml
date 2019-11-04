@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="board_margins">8dp</dimen>
+    <dimen name="text_size_big">24sp</dimen>
+    <dimen name="button_corner">16dp</dimen>
+    <dimen name="result_padding">36dp</dimen>
+
+
+
+    <integer name="winner_message_disappearance_time">400</integer>
+</resources>
